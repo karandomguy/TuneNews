@@ -9,7 +9,9 @@ TuneNews is a unique project that combines the worlds of news articles and Bolly
 - **Hassle-Free Conversion:** Easily convert any news article into catchy Hinglish Bollywood lyrics.
 - **Llama 2 7b Integration:** Powered by the advanced Llama 2 7b language model for high-quality results.
 - **Custom Dataset:** Fine-tuned on a curated dataset of 40 articles transformed into songs for accuracy and creativity.
-- **User-Friendly Interface:** A simple and intuitive interface for seamless conversion.
+- **User-Friendly Interface:** A simple and intuitive interface for seamless conversion.  
+
+[Checkout the model here](https://huggingface.co/datasets/karandomguy/news-to-bollywood-songs/tree/main)
 
 ## Getting Started
 
