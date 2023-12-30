@@ -11,7 +11,7 @@ TuneNews is a unique project that combines the worlds of news articles and Bolly
 - **Custom Dataset:** Fine-tuned on a curated dataset of 40 articles transformed into songs for accuracy and creativity.
 - **User-Friendly Interface:** A simple and intuitive interface for seamless conversion.  
 
-[Checkout the model here](https://huggingface.co/datasets/karandomguy/news-to-bollywood-songs/tree/main)
+[Checkout the model here](https://huggingface.co/karandomguy/TuneNews)
 
 ## Getting Started
 
