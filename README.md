@@ -20,7 +20,7 @@ TuneNews is a unique project that combines the worlds of news articles and Bolly
 1. Clone the TuneNews repository:
 
    ```bash
-   git clone https://github.com/your-username/TuneNews.git
+   git clone https://github.com/karandomguy/TuneNews.git
    ```
 
 2. Navigate to the project directory:
@@ -67,6 +67,3 @@ If you encounter any issues or have questions, please check the [issue tracker](
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
-
-Make sure to replace "your-username" with your actual GitHub username.
