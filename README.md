@@ -9,7 +9,7 @@ TuneNews is a unique project that combines the worlds of news articles and Bolly
 - **Hassle-Free Conversion:** Easily convert any news article into catchy Hinglish Bollywood lyrics.
 - **Llama 2 7b Integration:** Powered by the advanced Llama 2 7b language model for high-quality results.
 - **Custom Dataset:** Fine-tuned on a curated dataset of 40 articles transformed into songs for accuracy and creativity.
-- **User-Friendly Interface:** A simple and intuitive interface for seamless conversion.  
+- **User-Friendly Interface:** A simple and intuitive interface for seamless conversion with additional **Chrome Extension** for ease of use.  
 
 [Checkout the model here](https://huggingface.co/karandomguy/TuneNews)
 
@@ -37,16 +37,19 @@ TuneNews is a unique project that combines the worlds of news articles and Bolly
 
 ### Usage
 
-1. Run the TuneNews application:
+1. Run the TuneNews application.
 
 2. Input your desired news article when prompted.
 
 3. Sit back and enjoy as TuneNews transforms your news article into lively Hinglish Bollywood lyrics!
 
+### Chrome Extension
+
+TuneNews is also available as a Chrome extension, making it even easier for users to convert articles into lyrics. Simply select the text of an article, start the extension, and it will automatically paste the selected text into the extension for conversion.
+
 ### Future Scope
 1. More custom dataset  
-2. Chrome extension  
-3. Text-to-voice for the lyrics  
+2. Text-to-voice for the lyrics  
 
 ## Contribution Guidelines
 
@@ -64,3 +67,6 @@ If you encounter any issues or have questions, please check the [issue tracker](
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+```
+
+Make sure to replace "your-username" with your actual GitHub username.
