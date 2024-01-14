@@ -11,7 +11,8 @@ TuneNews is a unique project that combines the worlds of news articles and Bolly
 - **Custom Dataset:** Fine-tuned on a curated dataset of 40 articles transformed into songs for accuracy and creativity.
 - **User-Friendly Interface:** A simple and intuitive interface for seamless conversion with additional **Chrome Extension** for ease of use.  
 
-[Checkout the model here](https://huggingface.co/karandomguy/TuneNews)
+[Checkout the model here](https://huggingface.co/karandomguy/TuneNews)  
+[Working video of extension](https://youtu.be/WPvXx6Vvfis)
 
 ## Getting Started
 
