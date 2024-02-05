@@ -1,4 +1,4 @@
-fastapi==0.75.2
+fastapi==0.109.1
 keybert==0.5.1
 nltk==3.7
 sentence-splitter==1.4
